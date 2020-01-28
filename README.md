@@ -2,6 +2,5 @@
 
 Hello Humans@
 
-Keelo here, i like node.js and Coffeescript (that what i'm made of).
-i've had ladeeda and loodeda.
-
+Keelo here,
+test 2 of the pull request to be sure i know what is going on.
